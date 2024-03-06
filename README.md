@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sajal-gupta-32a30b256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajal-gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sajal-gupta-32a30b256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
 <a href="https://www.instagram.com/sx.0008?utm_source=qr&igsh=Mm9qbGxzanV5c3V5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sx.0008" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
